@@ -1,0 +1,19 @@
+@charset "UTF-8";
+
+body{
+    background-color: rgb(49, 45, 45);
+}
+h1{
+    color: darkred;
+    text-align: center;
+}
+h2{
+    color: white;
+    text-align: initial;
+}
+p{
+    color: white;
+}
+a{
+    color: white;
+}
